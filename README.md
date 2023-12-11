@@ -1,8 +1,9 @@
 # PantryMS - Internal Food Management System
 
 PantryMS is a web-based system designed for efficiently managing food items, keeping track of inventory, and providing notifications for low-stock or expiring products. The system allows for the organization of food items into different categories and integrates Discord webhooks for timely notifications.
-
-<img src="./meta/showcase.webp" style="width: 50%" ><img src="https://github.com/wiesty/wiesty/blob/main/showcase.gif?raw=true" style="width: 30%" >
+<p align="center">
+<img src="./meta/showcase.webp" style="width: 75%" >
+</p>
 
 ## Key Features:
 
@@ -11,8 +12,7 @@ PantryMS is a web-based system designed for efficiently managing food items, kee
 -   **Expiration Date Monitoring:** Receive alerts for products that are nearing expiration to minimize food waste.
 -   **Low-on-Stock Notifications:** Get notifications for products with low inventory to facilitate timely restocking.
 -   **Discord Integration:** Connect PantryMS with Discord webhooks for real-time notifications. (via Backend!!)
--   **EAN Scanner Integration:** Simplify product addition by seamlessly integrating EAN scanners, enhancing the efficiency of the system.
-
+-   **EAN Scanner Integration:** Simplify product addition by seamlessly integrating EAN scanners, enhancing the efficiency of the system. <img src="https://github.com/wiesty/wiesty/blob/main/showcase.gif?raw=true" style="width: 30%" >
 
 ## Prerequisites:
 
