@@ -2,6 +2,8 @@
 
 PantryMS is a web-based system designed for efficiently managing food items, keeping track of inventory, and providing notifications for low-stock or expiring products. The system allows for the organization of food items into different categories and integrates Discord webhooks for timely notifications.
 
+<img src="./meta/showcase.webp" style="width: 50%" >
+
 ## Key Features:
 
 -   **Product Management:** Add new products, update existing information, and remove items that are no longer needed.
